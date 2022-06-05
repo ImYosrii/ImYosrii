@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **JS/Making bots**
 
-- 👨‍💻 All of my projects are available at [https://masterful-knowledge.000webhostapp.com/](https://imyosrii.github.io/)
+- 👨‍💻 All of my projects are available at [https://imyosrii.github.io/](https://imyosrii.github.io/)
 
 - 📫 How to reach me **yosrisaed99@gmail.com**
 
-- 📄 Know about my experiences [https://masterful-knowledge.000webhostapp.com/](https://imyosrii.github.io/)
+- 📄 Know about my experiences [https://imyosrii.github.io/](https://imyosrii.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
