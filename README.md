@@ -5,15 +5,15 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-- 🔭 I’m currently working on a [Personal Website](https://masterful-knowledge.000webhostapp.com/)
+- 🔭 I’m currently working on a [Personal Website](https://imyosrii.github.io/)
 
 - 🌱 I’m currently learning **JS/Making bots**
 
-- 👨‍💻 All of my projects are available at [https://masterful-knowledge.000webhostapp.com/](https://masterful-knowledge.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://masterful-knowledge.000webhostapp.com/](https://imyosrii.github.io/)
 
 - 📫 How to reach me **yosrisaed99@gmail.com**
 
-- 📄 Know about my experiences [https://masterful-knowledge.000webhostapp.com/](https://masterful-knowledge.000webhostapp.com/)
+- 📄 Know about my experiences [https://masterful-knowledge.000webhostapp.com/](https://imyosrii.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
