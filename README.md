@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-- 🔭 I’m currently working on a [Personal Website](https://imyosrii.github.io/)
+- 🔭 I’m currently working on a [Dicord Bot](https://imyosrii.github.io/)
 
 - 🌱 I’m currently learning **JS/Making bots**
 
