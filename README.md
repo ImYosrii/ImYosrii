@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imyosrii&label=Profile%20views&color=0e75b6&style=flat" alt="imyosrii" /> </p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-
-- 🔭 I’m currently working on a [Dicord Bot](https://imyosrii.github.io/)
+<!-- (https://imyosrii.github.io/) -->
+- 🔭 I’m currently working on a [Chroom Extension]
 
 - 🌱 I’m currently learning **JS/Making bots**
 
