@@ -1,13 +1,13 @@
 [![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yosri Swidan</h1>
-<h3 align="center">A passionate Web/Software developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imyosrii&label=Profile%20views&color=0e75b6&style=flat" alt="imyosrii" /> </p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <!-- (https://imyosrii.github.io/) -->
-- 🔭 I’m currently working on a Chroom Extension
+- 🔭 I’m currently working on a Discord bot (NodeJS)
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://imyosrii.github.io/](https://imyosrii.github.io/)
 
