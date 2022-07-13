@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <!-- (https://imyosrii.github.io/) -->
-- 🔭 I’m currently working on a Discord bot (NodeJS)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://imyosrii.github.io/](https://imyosrii.github.io/)
 
