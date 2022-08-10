@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <!-- (https://imyosrii.github.io/) -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on FitMEUp (Excercising website)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning ...
 
 - 👨‍💻 All of my projects are available at [https://imyosrii.github.io/](https://imyosrii.github.io/)
 
