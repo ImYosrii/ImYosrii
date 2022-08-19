@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <!-- (https://imyosrii.github.io/) -->
-- 🔭 I’m currently working on FitMEUp (Excercising website)
+- 🔭 I’m currently working on FitMEUp (Excercising website)[https://fit-me-up.netlify.app/]
 
 - 🌱 I’m currently learning ...
 
