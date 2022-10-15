@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <!-- (https://imyosrii.github.io/) -->
-- 🔭 I’m currently working on Portfolio
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
 
