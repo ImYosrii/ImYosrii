@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yosri-swidan.netlify.app/](https://yosri-swidan.netlify.app/)
 
-- 📫 How to reach me **yosrisaed99@gmail.com**
+- 📫 How to reach me **yosrisaed77@gmail.com**
 
 - 📄 Know about my experiences [https://yosri-swidan.netlify.app/](https://yosri-swidan.netlify.app/)
 
